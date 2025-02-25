@@ -110,15 +110,6 @@ The study identifies several areas for further research and development:
 
 ---
 
-## **Contributing**
-We welcome contributions to improve and expand this project.  
-If you’d like to contribute:
-1. **Fork the repository**.
-2. **Make modifications to the Power BI file or datasets**.
-3. **Submit a pull request** with a summary of your changes.
-
----
-
 ## **Contact**
 For further inquiries, collaborations, or discussions, feel free to reach out:  
 **[keerthanaselvam0229@gmail.com]**
