@@ -23,7 +23,12 @@ Psychology and Law students reported lower levels of mental health issues, possi
 Younger students (ages 18-20) were more likely to seek professional help, while older students avoided it.
 Cultural and social stigmas may prevent some students from accessing mental health support.
 
-## Contents
-- Dissertation.pdf: Full dissertation document detailing methodologies, results, and recommendations.
-- Figures/: Visualizations and plots illustrating key findings.
-- References/: Bibliography and additional resources.
+## Project Contents
+This repository contains the following files:
+Cleaned Data_Student Mental health.xlsx	Cleaned dataset used for analysis after preprocessing.
+Raw Data_Student Mental health.xlsx	Original dataset before cleaning.
+Mental_Health.pbix	Power BI file containing the dashboard and visualizations.
+Dashboard screenshots.JPG	Images of key visualizations from the Power BI dashboard.
+Online Dashboard link.txt	A text file containing the direct link to the online Power BI dashboard.
+Project report.pdf	Detailed report on the study, including methodology, findings, and recommendations.
+README.md	This document providing an overview of the project.
