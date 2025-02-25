@@ -41,7 +41,7 @@ This project integrates advanced data visualization techniques to identify criti
 ---
 
 ## **Contents**
-Student-Mental-Health-Dashboard/ ├── Cleaned Data_Student Mental health.xlsx # Processed dataset used for analysis ├── Raw Data_Student Mental health.xlsx # Original raw dataset before preprocessing ├── Mental_Health.pbix # Power BI file for interactive dashboard ├── Dashboard screenshots.JPG # Screenshots of the dashboard visualizations ├── Online Dashboard link.txt # Link to the online Power BI dashboard ├── Project report.pdf # Detailed study report, including methodology and findings └── README.md # Overview of the project
+```Student-Mental-Health-Dashboard/ ├── Cleaned Data_Student Mental health.xlsx # Processed dataset used for analysis ├── Raw Data_Student Mental health.xlsx # Original raw dataset before preprocessing ├── Mental_Health.pbix # Power BI file for interactive dashboard ├── Dashboard screenshots.JPG # Screenshots of the dashboard visualizations ├── Online Dashboard link.txt # Link to the online Power BI dashboard ├── Project report.pdf # Detailed study report, including methodology and findings └── README.md # Overview of the project```
 
 ---
 
