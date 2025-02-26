@@ -110,9 +110,9 @@ The study identifies several areas for further research and development:
 
 ---
 
-## **Contact**
-For further inquiries, collaborations, or discussions, feel free to reach out:  
-**[keerthanaselvam0229@gmail.com]**
+## Contact
+For further inquiries, collaborations, or discussions, feel free to reach out:
+[keerthanaselvam0229@gmail.com](mailto:keerthanaselvam0229@gmail.com)
 
 ---
 
